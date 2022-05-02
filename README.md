@@ -4,6 +4,6 @@ To run project you need [Docker](https://docs.docker.com/engine/install/) and [D
 
 1. run `sudo docker-compose up -d` in root directory
 2. go to http://localhost:3000/dashboard/1-projetoeasy
-3. Place email: metabase@metabase.com and password: metabase0
+3. place email: metabase@metabase.com and password: metabase0
 
 To stop execution run `sudo docker-compose down`
